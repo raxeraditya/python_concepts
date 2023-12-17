@@ -1,4 +1,5 @@
-# create  a variable within a function then use self keyword 
+# notice self only use within a class functions(call method) and every function pass a parameter default
+# self keyword create  a variable within class to define a method not call a funtion
 # but create a function with many parameter they are not use self
 # self only use for create a variable not use parameter
 
